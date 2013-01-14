@@ -7,7 +7,7 @@
 
 // My variables
 var myName = "Ricardo Aviles";
-var teach = true;
+var teach = true; 
 var numOfStyles = 5;
 var martialArtName = "\"create my own\" style ";
 
